@@ -774,6 +774,7 @@ header {
 
 .project-box {
     max-width: 300px;
+    min-height: 412px;
     padding: 20px;
     color: #333;
     box-shadow: 0px 0px 66px 0px rgba(27, 56, 247, 0.24);
