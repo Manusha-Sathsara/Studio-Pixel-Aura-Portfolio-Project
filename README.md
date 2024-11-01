@@ -27,8 +27,5 @@ Most of the design images I used are my own designs and I plan to keep developin
 
 This portfolio is an all-in-one solution for displaying our design capabilities while providing an engaging and interactive user experience. 
 
-<<<<<<< HEAD
-Thank You!
-=======
-Thank You!
->>>>>>> c3cb2a37fadaa7544bf1262e0637cab61537e693
+## Thank You!
+
