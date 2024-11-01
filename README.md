@@ -1,4 +1,4 @@
-##Studio PixelAura Portfolio
+## Studio PixelAura Portfolio
 
 This is the official portfolio website for Studio PixelAura, designed to showcase our creative projects and services in a visually captivating, user-friendly manner.
 Made using HTML, CSS, and JS. 
